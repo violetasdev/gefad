@@ -1,0 +1,6 @@
+#Ignorando ficheros
+*.sql
+*.log
+*.txt
+*.pdf
+*.PDF	
